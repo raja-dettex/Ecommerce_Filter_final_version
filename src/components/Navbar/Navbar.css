@@ -1,0 +1,13 @@
+.navbarIcon {
+  height: 25px;
+  width: 25px;
+  color: white;
+}
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: red;
+  z-index: 2;
+}

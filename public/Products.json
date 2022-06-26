@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Men shirts",
+      "img": "https://rukminim1.flixcart.com/image/800/960/k7dnonk0/shirt/y/d/e/42-11326692-roadster-original-imafpmznmbbzvh8e.jpeg?q=50",
+      "brand": "Roadster",
+      "newPrice": 1750,
+      "oldPrice": 3599,
+      "discount": 65,
+      "size": "XL",
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "name": "Women shirts",
+      "img": "https://rukminim1.flixcart.com/image/495/594/knunf680/t-shirt/u/c/f/s-crp-nvr-viral-trend-original-imag2gy84dsejzax.jpeg?q=50",
+      "brand": "Gucci",
+      "newPrice": 1550,
+      "oldPrice": 3199,
+      "discount": 65,
+      "size": "M",
+      "rating": 4.3
+    },
+    {
+      "id": 3,
+      "name": "Men sneakers",
+      "img": "https://rukminim1.flixcart.com/image/495/594/jialea80/shoe/r/n/n/court-royale-ni-10-nike-black-white-original-imaf64gfxfy44fnp.jpeg?q=50",
+      "brand": "Nike",
+      "newPrice": 4750,
+      "oldPrice": 6599,
+      "discount": 65,
+      "size": "L",
+      "rating": 4.5
+    }
+  ]
+}
